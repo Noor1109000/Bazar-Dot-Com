@@ -1,0 +1,4 @@
+database Name: bazar
+
+step1 : Create a database in localhost using dbname ( bazar )
+step2: import sql file to database
